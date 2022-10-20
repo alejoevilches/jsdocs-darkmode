@@ -39,6 +39,10 @@ main{
     color:#E0E0E0;
 }
 
+.link:hover{
+    background-color:#212121
+}
+
 .links{
     border-top:1px solid;
 }

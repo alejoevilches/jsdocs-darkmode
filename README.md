@@ -1,5 +1,21 @@
+
 # jsdocs-darkmode
+
 This is the third challenge of the freeCodeCamp Responsive Web Design Certification. It is a technical documentation page of JavaScript. It was made with pure CSS following the guidelines of the certification and, in order to give it some extra value, I used the Material Design colors for a dark mode.
 
-## En Español
-Este es el tercer desafio de la freeCodeCamp Responsive Web Design Certification. Es una página web con documentación sobre JavaScript. Esta realizada con puro css siguiendo la guia de la certificación y , para agregarle algo de originalidad, utilicé los colores de Material Design para un modo oscuro.
+## Authors
+
+- [@alejoevilches](https://www.github.com/octokatherine)
+
+
+## Deployment
+
+To deploy this project you can fork the repository and run it in your localhost.
+
+
+## Stack
+This project uses vanilla JavaScript and pure CSS to work. It was made to improve my skills in this technologies. 
+
+## About me
+I`m an Argentinian 27 years old man who is learning web development with projects. I'm also open to work and looking forward to create great things in a challenging environment. 🚀
+
